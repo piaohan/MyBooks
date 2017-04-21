@@ -14,4 +14,15 @@
  - 鸟哥的私房菜
 
  ` 鸟哥的私房菜Linux基础 第4版 简体中文版`
+ ---
+
+ ` React.Native开发指南`
+
+ ` Linux命令行与shell脚本编程大全.第3版`
+ 
+ ` JavaScript高级程序设计(第3版文字版)`
+
+ ` JavaScript核心概念及实践`
+
+
 ```
